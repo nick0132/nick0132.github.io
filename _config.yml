@@ -2,7 +2,7 @@ title: 蓋伊傳說
 author: Nick Lin
 email: r951236958@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  {{ site.game_url }}
+  蓋伊傳說攻略記事本
 
 # 顯示摘錄
 show_excerpts: false # set to true to show excerpts on the homepage
