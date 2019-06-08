@@ -14,8 +14,8 @@
               {{ site.title | escape }}
             {%- endif -%}
             </li>
-            {%- if site.game_url -%}
-            <li><a class="u-email" href="{{ site.game_url }}">{{ site.game_name }}</a></li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
       </div>
