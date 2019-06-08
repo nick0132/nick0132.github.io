@@ -9,3 +9,4 @@ permalink: /treasure/
 
 ![森林](/assets/img/forest.jpg)
 ![工廠](/assets/img/factory.jpg)
+![圖書館](/assets/img/library.jpg)
