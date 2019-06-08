@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 命輪－魂器充能
 permalink: /roles/
 ---
