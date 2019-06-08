@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 卡耐秘寶－奪寶
 permalink: /treasure/
 ---
