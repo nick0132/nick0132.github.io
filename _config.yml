@@ -1,8 +1,8 @@
-title: 蓋伊傳說
+title: Welcome!
 author: Nick Lin
 email: r951236958@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  蓋伊傳說攻略記事本
+  紀錄一些筆記與資料.
 
 # 顯示摘錄
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -40,8 +40,8 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - roles.md
- - treasure.md
+ - tower.md
+# - treasure.md
 
 # Build settings
 theme: minima
